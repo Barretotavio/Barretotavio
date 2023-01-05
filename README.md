@@ -1,4 +1,4 @@
-## Olá, e seja bem vindo ao meu perfil! Eu sou Otávio Barreto
+## Olá, e seja bem vindo ao meu perfil! Eu sou Otávio Barreto.
 
 <div>
   <a href="https://github.com/Barretotavio">
